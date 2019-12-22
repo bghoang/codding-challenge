@@ -1,3 +1,9 @@
+'''
+Optimal solution: use 2 pointers, point to first and last index,
+compare the letter at each index, start going inside
+'''
+
+
 def isPalindrome(string):
     '''
     My Solution
