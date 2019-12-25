@@ -1,4 +1,10 @@
 '''
+Find a missing number from an array contain 0,...,n elements
+[0,1,3]
+Missing 2
+'''
+
+'''
 Brute force, sort the array
 create another list go from 0 to n
 compare each element in the original list with this list
